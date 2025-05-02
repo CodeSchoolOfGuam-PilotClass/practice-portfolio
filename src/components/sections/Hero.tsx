@@ -81,7 +81,7 @@ const Hero: React.FC = () => {
               transition={{ type: "spring", stiffness: 300 }}
             >
               <img 
-                src="src/assets/portfolio-image.jpeg" 
+                src="/portfolio-image.jpeg" 
                 alt="Leon Shimizu" 
                 className="w-full h-full object-cover"
               />
